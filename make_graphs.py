@@ -15,8 +15,8 @@ from matplotlib.patches import Patch
 matplotlib.rcParams.update({'font.size': 18})
 
 # Globals
-LOG_LOC="src/slayer/output/sentiment_words/log/"
-GRAPH_LOC="src/slayer/output/sentiment_words/graph/final/"
+LOG_LOC="output/log/"
+GRAPH_LOC="output/graph/final/"
 colors = [
     "red",# red
     "green",# green
